@@ -1,0 +1,14 @@
+.header {
+  padding: 30px 0;
+}
+
+.btn {
+  padding: 8px 20px;
+  background-color: burlywood;
+  border-radius: 4px;
+  font-size: 18px;
+}
+
+.btn:not(:last-child) {
+  margin-right: 15px;
+}
