@@ -27,8 +27,3 @@ const lightbox = new SimpleLightbox('.gallery a', {
   captionsData: 'alt',
   captionDelay: 250,
 });
-// Add event listener to open the lightbox on image click
-gallery.addEventListener('click', (event) => {
-  event.preventDefault();
-  lightbox.open();
-});
