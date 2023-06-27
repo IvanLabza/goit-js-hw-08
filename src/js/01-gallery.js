@@ -1,5 +1,5 @@
 // Import the SimpleLightbox library
-
+import SimpleLightbox from 'simplelightbox';
 // Import the additional styles
 import 'simplelightbox/dist/simple-lightbox.min.css';
 // Import the gallery items
